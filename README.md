@@ -1,8 +1,12 @@
-<h1 align="center">Hi there, I'm Carol 🌟</h1>
-<h3 align="center">Graphic/Web Design and Front-end Enthusiast</h3>
-<p align="center">I'm a 24-year-old from Brazil with a background in Psychology, currently specializing in UX Design and enrolled in Web Computing at Serviço Nacional de Aprendizagem Industrial (SENAI).</p>
+<h2 align="center" style="font-family: 'Consolas', monospace">Hi there, I'm Carol ★</h2>
+<h3 align="center" style="font-family: 'Consolas', monospace">Graphic/Web Design and Front-end Enthusiast</h3>
+<p align="center" style="font-family: 'Consolas', monospace; padding: 0 10%">I'm a 24-year-old from Brazil with a background in Psychology, currently specializing in UX Design and enrolled in Web Computing at Serviço Nacional de Aprendizagem Industrial (SENAI).</p>
+<br/>
 
----
+![duacarol's GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=duacarol&screen_effect=true&theme=fuji&pixelate_avatar=false)
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=duacarol&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duacarol&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,dotnet,ai,ps)
+<div align="center">
+
+![duacarol's Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,dotnet,ai,ps)
+
+</div>
