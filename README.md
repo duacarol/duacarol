@@ -1,7 +1,8 @@
 <samp>
-<h2 align="center">Hi there, I'm Carol ★</h2>
-<h3 align="center">Graphic/Web Design and Front-end Enthusiast</h3>
-<p align="center">I'm a 24-year-old from Brazil with a background in Psychology, currently specializing in UX Design and enrolled in Web Computing at Serviço Nacional de Aprendizagem Industrial (SENAI).</p>
+<h3 align="center">Hi there, I'm Carol ★</h2>
+<h4 align="center">「 Graphic/Web Design and Front-end Enthusiast 」</h3>
+<br/>
+<p align="center">I'm a 24-year-old from Brazil with a background in Psychology, currently pursuing IT and a postgrad in UX Design.</p>
 </samp>
 <br/>
 
